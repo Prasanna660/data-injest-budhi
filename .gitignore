@@ -1,6 +1,28 @@
 __pycache__/
-*.log
+# Python
+__pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+
+# Virtual envs
 venv/
+env/
+ENV/
+.venv/
+
+# Local Python installs (important for your case)
+bin/
+lib/
+lib64/
+include/
+
+# Logs
+*.log
 logs/
+
+# OS
+.DS_Store
+
+# Env files
+.env
