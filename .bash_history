@@ -687,3 +687,26 @@ tail -100 oi.log
 clear
 ls
 python3 oi.py
+ls
+cd data
+ls
+cd ..
+clear
+ls
+git init
+sudo apt install git
+sudo dnf update -y
+sudo dnf install git -y
+git --version
+clear
+git init
+git branch -m main
+git branch
+git status
+clear
+git init
+nano .gitignore
+ls
+nano .gitignore
+git add .
+git commit -m "Initial commit from EC2"
